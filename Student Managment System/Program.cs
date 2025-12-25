@@ -73,6 +73,7 @@ namespace Student_Managment_System
             Console.WriteLine($"ID:{ID}, Name:{Name}, Age:{Age},Gender:{Gender}");
             Console.WriteLine("Marks: "+ string.Join( ", ", marks.scors));
             Console.WriteLine("-----------------------------");
+            Console.WriteLine("------------------------");
         }
     }
     internal class Program
