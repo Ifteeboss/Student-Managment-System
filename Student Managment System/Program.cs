@@ -74,6 +74,12 @@ namespace Student_Managment_System
             Console.WriteLine("Marks: "+ string.Join( ", ", marks.scors));
             Console.WriteLine("-----------------------------");
             Console.WriteLine("------------------------");
+            Console.WriteLine("------------------------");
+
+            Console.WriteLine("------------------------");
+
+            Console.WriteLine("------------------------");
+
         }
     }
     internal class Program
